@@ -1,1 +1,1 @@
-# react-for-beginners2
+# Create React App 을 통한 React 연습
