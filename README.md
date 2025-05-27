@@ -1,1 +1,1 @@
-# Create React App 을 통한 React 연습
+# * Create React App 을 통한 React 연습
